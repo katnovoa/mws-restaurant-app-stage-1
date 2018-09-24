@@ -25,4 +25,4 @@ This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://w
 * Starter Repository: https://github.com/udacity/mws-restaurant-stage-1
 * Matthew Crawford's walkthrough tutorials for project 5
 * Webinar Walk-thru by Doug Brown for project 5
-# mws-restaurant-app-stage-1
+
