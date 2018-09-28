@@ -154,9 +154,9 @@ nav h1 a {
   padding: 30px 15px 60px;
   text-align: center;
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: center;
+  justify-content: center;
+  flex-flow: row wrap;
+
 }
 
 #restaurants-list li {
@@ -313,7 +313,7 @@ nav h1 a {
 #restaurant-hours td {
   color: #666;
 }
-
+/*  ========================== MEDIA QUERIES =========================== */
 @media (max-width: 768px) {
   .inside #maincontent {
     display: flex;
